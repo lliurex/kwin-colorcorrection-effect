@@ -1,0 +1,4 @@
+File=options.kcfg
+ClassName=ColorCorrectionFilterConfig
+Singleton=true
+Mutators=true

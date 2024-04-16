@@ -1,0 +1,29 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "juanma1980@gmail.com",
+                "Name": "juanma1980"
+            }
+        ],
+        "Category": "Accessibility",
+        "Description": "Filters for addressing color blindness issues",
+        "Description[es]": "Filtros para problemas de percepción de colores",
+        "Description[ca]": "Filtres per a problemes de percepció de colors",
+        "EnabledByDefault": false,
+        "Id": "kwin4_effect_colorcorrectionfilter",
+        "License": "GPL",
+        "Name": "Color Correction Filters",
+        "Name[es]": "Correción de Colores",
+        "Name[ca]": "Correció de Colors",
+        "ServiceTypes": [
+            "KWin/Effect"
+        ],
+        "Version": "1.0"
+    },
+    "org.kde.kwin.effect": {
+        "enabledByDefaultMethod": false
+    },
+    "X-KDE-Ordering": "5",
+    "X-KDE-ConfigModule": "kwin_colorcorrectionfilter_config"
+}

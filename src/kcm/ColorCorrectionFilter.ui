@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>658</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>400</width>
+    <height>0</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="vLayout">
+   <item>
+    <widget class="QComboBox" name="kcfg_colorCorrectionFilter">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="MinimumExpanding" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="currentIndex">
+      <number>1</number>
+     </property>
+     <item>
+      <property name="text">
+       <string>Protanopia_1</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Protanopia_2</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Protanopia_3</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Deuteranopia_1</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Deuteranopia_3</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Deuteranopia_2</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Tritanopia_1</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Tritanopia_3</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Tritanopia_2</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Achromatopsia_1</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Achromatopsia_2</string>
+      </property>
+     </item>
+    </widget>
+   </item>
+   <item>
+    <widget class="QCheckBox" name="kcfg_applyColorCorrection">
+      <property name="text">
+       <string>Apply error correction</string>
+      </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
