@@ -33,57 +33,57 @@
      </property>
      <item>
       <property name="text">
-       <string>Protanopia_1</string>
+       <string>Protanopia</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Protanopia_2</string>
+       <string>Protanopia (Alt. 1)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Protanopia_3</string>
+       <string>Protanopia (Alt. 2)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Deuteranopia_1</string>
+       <string>Deuteranopia</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Deuteranopia_3</string>
+       <string>Deuteranopia (Alt. 1)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Deuteranopia_2</string>
+       <string>Deuteranopia (Alt. 2)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Tritanopia_1</string>
+       <string>Tritanopia</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Tritanopia_3</string>
+       <string>Tritanopia (Alt. 1)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Tritanopia_2</string>
+       <string>Tritanopia (Alt. 2)</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Achromatopsia_1</string>
+       <string>Achromatopsia</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Achromatopsia_2</string>
+       <string>Achromatopsia (Alt. 1)</string>
       </property>
      </item>
     </widget>
@@ -91,7 +91,7 @@
    <item>
     <widget class="QCheckBox" name="kcfg_applyColorCorrection">
       <property name="text">
-       <string>Apply error correction</string>
+       <string>Boost effect</string>
       </property>
     </widget>
    </item>
